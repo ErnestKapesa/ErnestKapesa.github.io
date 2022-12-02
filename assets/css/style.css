@@ -1,18 +1,3 @@
-/*-----------------------------------*\
-  #style.css
-\*-----------------------------------*/
-
-/**
- * copyright 2022 codewithsadee
- */
-
-
-
-
-
-/*-----------------------------------*\
-  #CUSTOM PROPERTY
-\*-----------------------------------*/
 
 :root {
 
@@ -22,7 +7,7 @@
 
   --sonic-silver: hsl(0, 0%, 46%);
   --spanish-gray: hsl(0, 0%, 60%);
-  --theme-color: hsl(10, 100%, 57%);
+  --theme-color: hsl(250, 73%, 60%);
   --light-gray: hsl(0, 0%, 80%);
   --gray-x-11: hsl(0, 0%, 73%);
   --dim-gray: hsl(0, 0%, 44%);
@@ -796,7 +781,7 @@ textarea.input-field {
  * responsive for larger than 992px screen
  */
 
-@media (min-width: 992px) {
+@media (min-width: 992px) { 
 
   /**
    * CUSTOM PROPERTY
